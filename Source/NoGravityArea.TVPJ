@@ -1,0 +1,4 @@
+<particle-system>
+  <emitter type="pointsprite" max-particles="500" id="0" location="0/0/0" direction="0/100/0" directional="True" randomdirectionfactor="0/0/0" power="300" lifetime="3" shape="2" texture="particles\circle_sft2.dds" color="0.6,1,0.6,0.5" speed="5" usegravity="False" gravity="0/-0.5/0" alphachange="1" alphablending="1" alphatest="True" alpharef="0" alphadepthwrite="False" boxsize="10000/500/1000" sphereradius="0" looping="True" />
+  <emitter type="pointsprite" max-particles="500" id="1" location="0/0/0" direction="0/100/0" directional="True" randomdirectionfactor="0/0/0" power="500" lifetime="3" shape="2" texture="particles\star1.dds" color="0.6,0.8,1,0.5" speed="5" usegravity="False" gravity="0/-0.5/0" alphachange="1" alphablending="1" alphatest="True" alpharef="0" alphadepthwrite="False" boxsize="10000/1000/1000" sphereradius="0" looping="True" />
+</particle-system>

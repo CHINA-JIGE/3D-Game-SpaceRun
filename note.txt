@@ -1,0 +1,1 @@
+remember to delete ".mark" file before packing all the files to release game.

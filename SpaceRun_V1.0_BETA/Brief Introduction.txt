@@ -1,0 +1,48 @@
+！！！！！！！！！！！！！！！！！！！！！！！！！！
+！！！！！！！！S P A C E    R U N！！！！！！！！！
+！！！！！！！！！！！！！！！！！！！！！！！！！！
+‐Game Type／3D Real Time/First Personal "Running?"
+
+
+‐Platform／PC
+
+
+‐System／WIN XP,WIN 7 x86/x64(it seems ok= =)
+
+
+‐Environment Requirement／DirectX 9.0c
+	(by the way,if you cant run the game,try to register the dll first)
+
+
+some translation on MENU:
+蝕兵嗄老 	= Start Game;
+斌糾	= Shop;
+譜崔	= Settings/Configuration;	
+曜竃	= Exit;
+
+some translation on SHOP:
+温僮	= Health Recover;
+起符狼由	= Ejection System;
+
+
+
+In games:
+[ESC]pause in game
+
+[W]jump , you can jump twice(even in sky)after landing once.
+
+[A]move left
+
+[D]move right
+
+[S]falling down
+
+[LeftCtrl]use the tools
+
+[Space]activate Ejection "System"(just a big jump)
+
+[Enter]activate "auto money save" in one game
+
+[PageDown]change BGM.
+
+[PrintScreen]screenshot

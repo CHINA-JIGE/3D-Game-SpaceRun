@@ -1,0 +1,4 @@
+<particle-system>
+  <emitter type="billboard" max-particles="20" id="0" size="256" location="0/0/0" direction="0/0/0" directional="True" randomdirectionfactor="100/100/100" power="0.5" lifetime="1.5" shape="2" texture="F:\1vb资料\3D游戏制作\4\Mesh\ExplosionSingle.png" color="1,1,0.2,1" speed="3" usegravity="False" gravity="0/0/0" alphachange="1" alphablending="2" alphatest="True" alpharef="0" alphadepthwrite="False" boxsize="200/200/200" sphereradius="0" looping="False" />
+  <emitter type="billboard" max-particles="20" id="1" size="256" location="0/0/0" direction="0/0/0" directional="True" randomdirectionfactor="100/100/100" power="0.5" lifetime="1.5" shape="2" texture="F:\1vb资料\3D游戏制作\4\Mesh\ExplosionSingle.png" color="1,0.3,0,1" speed="3" usegravity="False" gravity="0/-0.5/0" alphachange="1" alphablending="2" alphatest="True" alpharef="0" alphadepthwrite="False" boxsize="200/200/200" sphereradius="0" looping="False" />
+</particle-system>
